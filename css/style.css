@@ -5,7 +5,9 @@
     overflow: hidden;
     background-color: #333333;
   }
-  
+  .navbar li {
+      float:center
+  }
   
   
   .navbar li a {
