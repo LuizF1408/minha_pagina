@@ -38,7 +38,8 @@
     }
   ],
   "dependencies": {
-    "bootstrap": "4.4.1"
+    "bootstrap": "4.4.1",
+    "startbootstrap": "0.0.1"
   },
   "deprecated": false,
   "description": "A freelancer portfolio HTML theme for Bootstrap.",
